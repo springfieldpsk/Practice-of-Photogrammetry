@@ -1,0 +1,1 @@
+g++ ./buildfile/main ./buildfile/Matrix ./buildfile/checkpt ./buildfile/control_pt ./buildfile/ptopoint ./buildfile/readfromfile ./buildfile/Auxiliary_coordinate ./buildfile/Relative_orientation ./buildfile/modelpoint ./buildfile/air_belt_network ./buildfile/air_belt_inf ./buildfile/Absolute_orientation ./buildfile/Image_control_point -o run
